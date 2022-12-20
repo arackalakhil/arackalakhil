@@ -1,4 +1,4 @@
-[![MasterHead](https://files.realpython.com/media/Get-Started-with-Django-Part-3-Build-A-QandA-Forum_Watermarked.962c2105d488.jpg)](https://arackalakhil.github.io/akhil/)
+[![MasterHead](https://www.trio.dev/hubfs/Django%20development-1.webp)](https://arackalakhil.github.io/akhil/)
 
 <h1 align="center">Hi 👋, I'm AKHIL MOHAN</h1>
 <h3 align="center">A passionate self-taught full stack developer</h3>
