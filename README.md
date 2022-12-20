@@ -10,9 +10,9 @@
 
 - 👨‍💻 I am a sophist
 
-- 💬 Ask me about **Python,Django,Django rest framework,React**
+- 💬 Ask me about **Python, Django, Django rest-framework, React, C, Embedded C, EV's**
 
-- 📫 How to reach me **makhil029@gmial.com**
+- 📫 How to reach me **makhil029@gmail.com**
 
 - ⚡ Fun fact **I AM ELECTRICAL ENGINEER**
 
