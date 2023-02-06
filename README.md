@@ -10,7 +10,7 @@
 
 - 👨‍💻 I am a sophist
 
-- 💬 Ask me about **Python, Django, Django rest-framework, React, C, Embedded C, EV's**
+- 💬 Ask me about **Python, Django, Django rest-framework, Frappe, React, C, Embedded C, EV's**
 
 - 📫 How to reach me **makhil029@gmail.com**
 
