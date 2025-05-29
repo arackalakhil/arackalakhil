@@ -1,32 +1,87 @@
-[![MasterHead](https://www.trio.dev/hubfs/Django%20development-1.webp)](https://arackalakhil.github.io/akhil/)
+<!-- 🧠 Akhil Arackal - GitHub Profile README -->
 
-<h1 align="center">Hi 👋, I'm AKHIL MOHAN</h1>
-<h3 align="center">A passionate self-taught full stack developer</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/926537/screenshots/4502924/media/18181eb39eec9784db256e246954adba.gif"/>
+<h1 align="center">Hi there 👋, I'm <span style="color:#007acc;">Akhil </span></h1>
+<h3 align="center">📊 Data Enthusiast | 🚀 Full Stack Developer | ⚡ Electrical Engineer | </h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=arackalakhil&label=Profile%20views&color=0e75b6&style=flat" alt="arackalakhil" /> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
-- 👨‍💻 I am a sophist
-
-- 💬 Ask me about **Python, Django, Django rest-framework, Frappe, React, C, Embedded C, EV's**
-
-- 📫 How to reach me **makhil029@gmail.com**
-
-- ⚡ Fun fact **I AM ELECTRICAL ENGINEER**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="center">
+  <img src="https://cdn.dribbble.com/users/926537/screenshots/4502924/media/18181eb39eec9784db256e246954adba.gif" width="380" alt="coding animation" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=arackalakhil&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arackalakhil&show_icons=true&locale=en&layout=compact" alt="arackalakhil" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arackalakhil&show_icons=true&locale=en" alt="arackalakhil" /></p>
+## 👨‍💻 About Me
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arackalakhil&" alt="arackalakhil" /></p>
+- 🔧 Self-taught passionate **Full Stack Developer**
+- 🧠 Strong background in **Electrical Engineering & Embedded Systems**
+- 📊 Love working with **Data Science, Analytics & Automation**
+- 🌱 Currently diving deeper into **AI Agents, LLMs, and System Design**
+- 📬 Reach me anytime at: **makhil029@gmail.com**
 
+---
 
+## 🧰 Tech Stack
+
+### 💻 Programming & Scripting
+<p>
+  <img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" />
+  <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" />
+</p>
+
+### ⚙️ Frameworks & Libraries
+<p>
+  <img src="https://cdn.worldvectorlogo.com/logos/django.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" />
+  <img src="https://cdn.worldvectorlogo.com/logos/frappe.svg" width="40" />
+</p>
+
+### 📊 Data & Backend
+<p>
+  <img src="https://cdn.worldvectorlogo.com/logos/postgresql.svg" width="40" />
+  <img src="https://cdn.worldvectorlogo.com/logos/getpostman-icon.svg" width="40" />
+  <img src="https://cdn.worldvectorlogo.com/logos/jupyter.svg" width="40" />
+  <img src="https://cdn.worldvectorlogo.com/logos/pandas.svg" width="40" />
+  <img src="https://cdn.worldvectorlogo.com/logos/numpy-1.svg" width="40" />
+  <img src="https://cdn.worldvectorlogo.com/logos/matplotlib.svg" width="40" />
+</p>
+
+### 🧪 DevOps & Tools
+<p>
+  <img src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" width="40" />
+  <img src="https://cdn.worldvectorlogo.com/logos/heroku-icon.svg" width="40" />
+  <img src="https://cdn.worldvectorlogo.com/logos/figma.svg" width="40" />
+</p>
+
+---
+
+## 📈 GitHub Insights
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=arackalakhil&show_icons=true&theme=radical" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arackalakhil&layout=compact&theme=radical" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arackalakhil&theme=radical" width="60%" />
+</p>
+
+---
+
+## 🔗 Connect With Me
+
+<p>
+  <a href="mailto:makhil029@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <!-- Future links: LinkedIn, Portfolio, Twitter can go here -->
+</p>
+
+---
+
+<p align="center">
+  🚀 Building innovative solutions with passion and purpose.
+</p>
